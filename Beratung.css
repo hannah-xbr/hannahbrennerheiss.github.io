@@ -1,0 +1,32 @@
+body{
+	background-color: silver;
+	font-family: helvetica, sans-serif;
+}
+
+h1{
+	text-align: center;
+	font-family: helvetica;
+	font-size: 90px;
+}
+
+table{
+	font-size: 60px;
+	color: white;
+	margin-bottom: 100px;
+	border-spacing: 0px 5px;
+}
+
+h2{
+	margin-top: 60px;
+	margin-bottom: 60px;
+	font-size: 28px;
+	color: white;
+}
+
+div{
+	color: white;
+	width: 400px;
+	margin-bottom: 100px;
+	align-content: center;
+	margin-left: 510px;
+}

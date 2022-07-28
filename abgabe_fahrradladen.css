@@ -1,0 +1,46 @@
+body{
+    font-family: helvetica, sans-serif;
+    margin-right: 50px;
+    margin: auto;
+    background-color: silver;
+    margin-bottom: 40px;
+}
+
+h1{
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 80px;
+    font-size: 70px;
+    color: white;
+}
+
+p{
+    margin-bottom: 100px;
+}
+
+table{
+    color: white;
+    border-spacing: 30px 10px;
+}
+
+div{
+    margin-top: 100px;
+    margin-left: 530px;
+    margin-right: 530px;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    border-bottom: .1em white;
+    color: white;
+}
+
+a:hover{
+    color: black;
+    text-decoration: underline;
+}
+
+a:active {
+  color: #e2251d;
+}

@@ -1,0 +1,39 @@
+body{
+	margin-bottom: 100px;
+	background-color: silver;
+	font-family: helvetica, sans-serif;
+}
+
+h1{
+	text-align: center;
+	font-family: helvetica;
+	font-size: 100px;
+}
+
+table{
+	color: white;
+	border-spacing: 10px 10px;
+	margin-bottom: 50px;
+}
+
+div{
+	color: white;
+}
+
+img{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+a{
+	color: white;
+}
+
+a:hover{
+    color: black;
+    text-decoration: underline;
+}
+
+a:active {
+  color: #e2251d;
+}
